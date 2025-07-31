@@ -1,4 +1,7 @@
 // Write a program to create a matrix of size 3x2 having all the even numbers. In such a way that numbers in a second row should be double of numbers in a first row.
+#include <iostream>
+using namespace std;
+
 int main() {
     int matrix[2][3];
     int num = 2;
